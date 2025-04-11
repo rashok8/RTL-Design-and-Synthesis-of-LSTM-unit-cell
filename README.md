@@ -13,7 +13,7 @@
 Clone this repository:
 
 ```bash
-git clone https://github.com/ahirsharan/LSTM.git
+git clone https://github.com/rashok8/LSTM.git
 cd LSTM/
 ```
 ## Architecture
